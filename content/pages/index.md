@@ -71,9 +71,7 @@ sections:
     grid_items:
       - title: OTRA OPCION TAREAS
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
+          Profundizar sobre tarea x
         actions:
           - label: Learn More
             url: /overview
