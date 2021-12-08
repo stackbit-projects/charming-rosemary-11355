@@ -31,9 +31,7 @@ sections:
             style: link
       - title: 3 
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          Profundcar sobre tarea x que hagan
         actions:
           - label: Learn More
             url: /style-guide
