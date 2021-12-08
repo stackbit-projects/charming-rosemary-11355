@@ -17,7 +17,7 @@ sections:
     grid_items:
       - title: 1
         content: >-
-          Profundc
+          Profundizar sobre tarea x que hagan
         actions:
           - label: Get Started
             url: /docs
