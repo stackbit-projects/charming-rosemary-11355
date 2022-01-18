@@ -25,6 +25,7 @@ export default class SectionContent extends React.Component {
                     >
                         {image && (
                             <div className="grid-item block-image">
+                                puede ser imagen de marcas/
                                 <img src={withPrefix(image)} alt={imageAlt} />
                             </div>
                         )}
