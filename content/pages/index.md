@@ -42,9 +42,7 @@ sections:
     image_position: left
     title: Con título
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      Se pueden describir las tareas o lo que se vea
     actions:
       - label: View Demo
         url: /docs/getting-started
